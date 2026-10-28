@@ -1,0 +1,4 @@
+1. Untuk melihat perubahan git status
+2. Untuk menambahkan perubahan git add .
+3. Untuk perubahan git. commit -m "perubahan kedua"
+4. git push origin master
